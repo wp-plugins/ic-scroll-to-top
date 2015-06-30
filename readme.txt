@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: iCanyonDesign
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=hsahedul@yahoo.com&item_name=Donation+for+iCanyon+Development
 Tags: scroll, scroll to top
 Requires at least: 3.0.1
