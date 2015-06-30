@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://icanyondesigndonate.site40.net/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=hsahedul@yahoo.com&item_name=Donation+for+iCanyon+Development
 Tags: scroll, scroll to top
 Requires at least: 3.0.1
 Tested up to: 4.2.2
@@ -12,9 +12,6 @@ A simple jquery scroll to top plugin for wordpress
 == Description ==
 
 This is a simple jQuery scroll to top plugin. Its very lightweight but a important plugin for a wordpress site. This plugin will automaticaly add a scroll to top on bottom right.
-
-    If no stable tag is provided, it is assumed that trunk is stable, but you should specify "trunk" if that's where
-you put the stable version, in order to eliminate any doubt.
 
 == Installation ==
 
