@@ -1,0 +1,27 @@
+/* Image style */
+#scrollUp {
+	background-color: #333;
+	border-radius: 4px 4px 0 0;
+	bottom: 0;
+	color: #FFF;
+	display: none;
+	height: 45px;
+	position: fixed;
+	right: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 48px;
+	opacity: 0.9;
+	z-index: 10000;
+	-webkit-transition: all 0.2s ease-in-out 0s;
+	-moz-transition: all 0.2s ease-in-out 0s;
+	-o-transition: all 0.2s ease-in-out 0s;
+	transition: all 0.2s ease-in-out 0s;
+}
+#scrollUp:before {
+	line-height: 35px;
+	content: '\f077';
+	-webkit-font-smoothing: antialiased;
+	font-family: 'FontAwesome';
+	font-size: 22px;
+}
