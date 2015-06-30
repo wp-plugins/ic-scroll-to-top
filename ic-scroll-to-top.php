@@ -5,7 +5,7 @@ Plugin URI: http://www.icanyon.cf/
 Description: A simple jquery scroll to top plugin for wordpress
 Author: iCanyonDesign
 Author URI: http://www.icanyon.cf/
-Version: 1.1
+Version: 1.2
 */
 
 // Direct Access Restrictions
